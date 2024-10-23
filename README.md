@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [urbancheese.github.io](urbancheese.github.io)
 
+- ⚡ Fun fact **I think I'm decent in coding**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
