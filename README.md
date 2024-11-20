@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urbancheese&label=Profile%20views&color=0e75b6&style=flat" alt="urbancheese" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?urbancheese=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urbancheese" alt="urbancheese" /></a> </p>
 
 - 🌱 I’m currently learning **Rust, Ruby and Java**
